@@ -1,7 +1,7 @@
 /* This outline property puts an outline on all divs */
 
 
-
+/* this is the outline color and size div */
 div {
 
 outline: 1px solid #CCCCCC;
