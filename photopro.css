@@ -1,0 +1,80 @@
+/* This outline property puts an outline on all divs */
+
+
+
+div {
+
+outline: 1px solid #CCCCCC;
+
+}
+
+
+
+/* This is the outermost div in our content markup */
+
+#main-content {
+
+	width: 960px;
+
+	height: 600px;
+
+}
+
+
+
+.button-holder {
+
+	width: 180px;
+
+	float: left;
+
+}
+
+
+
+.button {
+
+	width: 60px;
+
+	padding: 8px;
+
+	margin: 4px;
+
+	border-width: 1px;
+
+	border-color: black;
+
+	border-style: solid;
+
+	float: left;
+
+	text-align: center;
+
+	cursor: pointer;
+
+}
+
+
+
+.disabled {
+
+	cursor: default;
+
+	border-color: gray; 
+
+	color: gray; 
+
+}
+
+
+
+
+.image-holder {
+
+	width: 600px;
+
+	height: 345px;
+
+	float: left;
+
+}
