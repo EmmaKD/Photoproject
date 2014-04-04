@@ -2,12 +2,13 @@
 * @author
 */
 
-/* this is an array of all our images (in order) */
+/* this is an array of all the images (in order) */
 var images=["image1.png", "image2.png", "image3.png", "image4.png", "image5.png", "image6.png", "image7.png", 
-"image8.png", "image9.png]";
+"image8.png", "image9.png"];
 
 var index = 0;
 
+/* This is if else function for the images */
 function setNav() {
 	
 console.log("setNav")
@@ -63,7 +64,7 @@ $(".image-holder").html(
 );	
 
 }
-/* load the first image into our image holder */
+/* load the first image into the image holder */
 $(document).ready(function() {
 	
 $(".image-holder").html(
