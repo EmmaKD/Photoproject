@@ -10,13 +10,13 @@ outline: 1px solid #CCCCCC;
 
 
 
-/* This is the outermost div in our content markup */
+/* This is the outermost div in the content markup */
 
 #main-content {
 
-	width: 960px;
+	width: 950px;
 
-	height: 600px;
+	height: 580px;
 
 }
 
@@ -24,7 +24,7 @@ outline: 1px solid #CCCCCC;
 
 .button-holder {
 
-	width: 180px;
+	width: 170px;
 
 	float: left;
 
@@ -34,15 +34,15 @@ outline: 1px solid #CCCCCC;
 
 .button {
 
-	width: 60px;
+	width: 55px;
 
-	padding: 8px;
+	padding: 10px;
 
-	margin: 4px;
+	margin: 6px;
 
 	border-width: 1px;
 
-	border-color: black;
+	border-color: blue;
 
 	border-style: solid;
 
@@ -60,9 +60,9 @@ outline: 1px solid #CCCCCC;
 
 	cursor: default;
 
-	border-color: gray; 
+	border-color: blue; 
 
-	color: gray; 
+	color: blue; 
 
 }
 
@@ -71,9 +71,9 @@ outline: 1px solid #CCCCCC;
 
 .image-holder {
 
-	width: 600px;
+	width: 580px;
 
-	height: 345px;
+	height: 340px;
 
 	float: left;
 
