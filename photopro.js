@@ -52,7 +52,6 @@ console.log("click!!");
 
 
 
-
 }
 /* change the image here */
 function updateImage(){
