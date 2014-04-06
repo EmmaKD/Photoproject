@@ -4,7 +4,7 @@
 /* this is the outline color and size div */
 div {
 
-outline: 1px solid #CCCCCC;
+outline: 1px solid #330066;
 
 }
 
@@ -14,13 +14,13 @@ outline: 1px solid #CCCCCC;
 
 #main-content {
 
-	width: 950px;
+	width: 640px;
 
-	height: 580px;
+	height: 550px;
 
 }
 
-
+/* This is the button holder */
 
 .button-holder {
 
@@ -31,18 +31,18 @@ outline: 1px solid #CCCCCC;
 }
 
 
-
+/* Below are the buttons */
 .button {
 
-	width: 55px;
+	width: 65px;
 
-	padding: 10px;
+	padding: 2px;
 
 	margin: 6px;
 
 	border-width: 1px;
 
-	border-color: blue;
+	border-color: red;
 
 	border-style: solid;
 
@@ -60,14 +60,14 @@ outline: 1px solid #CCCCCC;
 
 	cursor: default;
 
-	border-color: blue; 
+	border-color: red; 
 
 	color: blue; 
 
 }
 
 
-
+/* This div holds the images*/
 
 .image-holder {
 
